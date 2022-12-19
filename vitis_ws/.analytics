@@ -1,0 +1,25 @@
+timestamp=[2022-12-15 10:44:20], mode=WORKBENCH_START, duration=0:00:07.195, duration_ms=7195, data={}
+timestamp=[2022-12-15 10:44:21], mode=WORKBENCH_UI_INIT, duration=0:00:01.235, duration_ms=1235, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-12-15 10:44:26], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:04.823, duration_ms=4823, data={}
+timestamp=[2022-12-15 10:45:58], mode=APP_CREATION, duration=0:00:26.166, duration_ms=26166, data={name=final_ass_bareMetalTest, project_type=sdk, os=standalone, processor=psu_cortexa53, runtime=cpp, platform=u96v2_sbc_mp4d, application_type=application}
+timestamp=[2022-12-15 11:10:29], mode=PLATFORM_GENERATION, duration=0:00:43.081, duration_ms=43081, data={name=u96v2_sbc_mp4d}
+timestamp=[2022-12-15 11:10:37], mode=BUILD, duration=0:00:00.785, duration_ms=785, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:12:14], mode=BUILD, duration=0:00:01.113, duration_ms=1113, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:19:53], mode=PLATFORM_GENERATION, duration=0:00:14.600, duration_ms=14600, data={name=u96v2_sbc_mp4d}
+timestamp=[2022-12-15 11:20:02], mode=BUILD, duration=0:00:00.988, duration_ms=988, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:20:05], mode=BUILD, duration=0:00:01.138, duration_ms=1138, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:20:31], mode=BUILD, duration=0:00:00.982, duration_ms=982, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:21:28], mode=BUILD, duration=0:00:01.052, duration_ms=1052, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:22:25], mode=BUILD, duration=0:00:00.919, duration_ms=919, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:41:01], mode=BUILD, duration=0:00:01.061, duration_ms=1061, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:44:36], mode=BUILD, duration=0:00:01.085, duration_ms=1085, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:45:22], mode=BUILD, duration=0:00:01.061, duration_ms=1061, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:48:10], mode=BUILD, duration=0:00:01.157, duration_ms=1157, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 11:50:48], mode=BUILD, duration=0:00:00.986, duration_ms=986, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 12:31:20], mode=PLATFORM_GENERATION, duration=0:00:06.737, duration_ms=6737, data={name=u96v2_sbc_mp4d}
+timestamp=[2022-12-15 12:31:31], mode=BUILD, duration=0:00:01.132, duration_ms=1132, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 12:34:08], mode=BUILD, duration=0:00:01.003, duration_ms=1003, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 14:50:32], mode=BUILD, duration=0:00:01.101, duration_ms=1101, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 14:51:21], mode=BUILD, duration=0:00:01.040, duration_ms=1040, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 14:52:01], mode=BUILD, duration=0:00:00.986, duration_ms=986, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}
+timestamp=[2022-12-15 14:53:23], mode=BUILD, duration=0:00:00.957, duration_ms=957, data={name=final_ass_bareMetalTest, configuration=Debug, clean_build=false}

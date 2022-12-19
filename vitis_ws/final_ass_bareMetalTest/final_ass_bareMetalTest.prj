@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="final_ass_bareMetalTest" location="/home/matej/FPGA_prj/final-ass-mp4d/vitis_ws/final_ass_bareMetalTest" platform="/home/matej/FPGA_prj/final-ass-mp4d/vitis_ws/u96v2_sbc_mp4d/export/u96v2_sbc_mp4d/u96v2_sbc_mp4d.xpfm" platformUID="sdu.dk/diii:u96v2_sbc_mp4d:u96v2_sbc_mp4d:1.0(custom)" systemProject="final_ass_bareMetalTest_system" sysConfig="u96v2_sbc_mp4d" runtime="cpp" cpu="standalone_psu_cortexa53_0" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="f1e1d1c8af9c676564363ba224a43ba8">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.395016149">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.616346711" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
