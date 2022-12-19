@@ -12,7 +12,6 @@ vivado*.str
 *.xsa
 
 /petalinux/
-/hdl/
 /bdf/
 /meta-avnet/
 /target/
